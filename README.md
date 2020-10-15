@@ -11,7 +11,7 @@ Pro futuro? miro na área docente, meu foco é virar professor 🎓
 
 ### É isso, fé com fé e muito café ☕️
 
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
 
 ## Me segue ae, vai ! 🥺
@@ -19,6 +19,6 @@ Pro futuro? miro na área docente, meu foco é virar professor 🎓
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxsuel-barboza-659335189/)](https://www.linkedin.com/in/maxsuel-barboza-659335189/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxsuelstorch@gmail.com)](mailto:maxsuelstorch@gmail.com)
 
-<p align="right"> 
+<p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=maxbarboz&show_icons=true&theme=graywhite" /></a>
 </p> 
