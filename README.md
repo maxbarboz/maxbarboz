@@ -5,7 +5,7 @@
 
 ## Eae, tudo bom?!  🙄
 
-Meu nome é Maxsuel, sou aluno do Instituto Federal do Espírito Santo e atualmente estou no 3° período do curso de Análise e Desenvolvimento de Sistemas. Sou estagiário de desenvolvimento na Basis Tecnologia da Informação (https://www.basis.com.br/), aqui atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras. Também atuo na realização de testes unitários, integração e automazidados entre outras diversas funções.
+Meu nome é Maxsuel, sou estagiário de desenvolvimento na Basis Tecnologia da Informação (https://www.basis.com.br/), aqui atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras. Também atuo na realização de testes unitários, integração e automazidados entre outras diversas funções.
 
 Pro futuro? miro na área docente, meu foco é virar professor 🎓 
 
