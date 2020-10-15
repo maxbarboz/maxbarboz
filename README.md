@@ -14,4 +14,4 @@ Pro futuro? miro na área docente, meu foco é virar professor 🎓
 ## Me segue ae vai
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/maxbarboz/maxbarboz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxsuel-barboza-659335189/)](https://www.linkedin.com/in/maxsuel-barboza-659335189/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=maxsuelstorch@gmail.com)](maxsuelstorch@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=maxsuelstorch@gmail.com)](maxsuelstorch@gmail.com)
