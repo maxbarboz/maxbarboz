@@ -1,18 +1,12 @@
 # Max Barboza - 💻 
 
-#### Java + Spring Boot = 💚
-#### Angular + TypeScript = 💜
+### Java + Spring Boot + Angular + TypeScript
 
 ## Eae, tudo bom?!  🙄
 
 Meu nome é Maxsuel, sou estagiário de desenvolvimento na Basis Tecnologia da Informação (https://www.basis.com.br/), aqui atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras. Também atuo na realização de testes unitários, integração e automazidados entre outras diversas funções.
 
-Pro futuro? miro na área docente, meu foco é virar professor 🎓 
-
 ### É isso, fé com fé e muito café ☕️
-
-<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
-
 
 ## Me segue ae, vai ! 🥺
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/maxbarboz/maxbarboz)
