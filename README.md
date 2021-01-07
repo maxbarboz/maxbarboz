@@ -15,7 +15,7 @@ Full Stack Developer Jr - Basis Tecnologia da Informação [BR]
 </div>
 
 ```javascript
-const aboutMe = {
+const sobreMim = {
    Atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, 
    AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras. Também atuo na realização 
    de testes unitários, integração e automazidados entre outras diversas funções.
