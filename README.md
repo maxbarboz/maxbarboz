@@ -1,6 +1,6 @@
 <div align="center">
 
-# <Max Barboza/> 🦅
+# Max Barboza 🦅
 Full Stack Developer Jr - Basis Tecnologia da Informação [BR]
 
 </div>
@@ -17,8 +17,8 @@ Full Stack Developer Jr - Basis Tecnologia da Informação [BR]
 ```javascript
 const aboutMe = {
    Atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, 
-   AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras.    Também atuo na realização de 
-   testes unitários, integração e automazidados entre outras diversas funções.
+   AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras. Também atuo na realização 
+   de testes unitários, integração e automazidados entre outras diversas funções.
 };
 
 ```
@@ -26,7 +26,8 @@ const aboutMe = {
 <div align="center">
 
 
-![diego's status](https://github-readme-stats.vercel.app/api?username=diegobaena89&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobaena89&langs_count=5&hide=html&theme=dark&layout=compact)](https://github.com/diegobaena89/github-readme-stats)
+![max status](https://github-readme-stats.vercel.app/api?username=maxbarboz89&&theme=dark&show_show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarboz89&langs_count=5&hide=html&theme=dark&layout=compact)](https://github.com/maxbarboz/github-readme-stats)
 
 </div>
 
@@ -37,12 +38,7 @@ const aboutMe = {
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
- 
- ---
+   
+---
 
 ## <div align="center"> 💻 Meus repositorios ⬇️ </div>
