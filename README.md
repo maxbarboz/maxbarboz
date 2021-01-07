@@ -26,8 +26,8 @@ const aboutMe = {
 <div align="center">
 
 
-![max status](https://github-readme-stats.vercel.app/api?username=maxbarboz89&&theme=dark&show_show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarboz89&langs_count=5&hide=html&theme=dark&layout=compact)](https://github.com/maxbarboz/github-readme-stats)
+![max status](https://github-readme-stats.vercel.app/api?username=maxbarboz&&theme=dark&show_show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarboz&langs_count=5&hide=html&theme=dark&layout=compact)](https://github.com/maxbarboz/github-readme-stats)
 
 </div>
 
