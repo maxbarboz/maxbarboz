@@ -1,18 +1,48 @@
-# Max Barboza - 💻 
+<div align="center">
 
-### Java + Spring Boot + Angular + TypeScript
+# <Max Barboza/> 🦅
+Full Stack Developer Jr - Basis Tecnologia da Informação [BR]
 
-## Eae, tudo bom?!  🙄
+</div>
 
-Meu nome é Maxsuel, sou estagiário de desenvolvimento na Basis Tecnologia da Informação (https://www.basis.com.br/), aqui atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras. Também atuo na realização de testes unitários, integração e automazidados entre outras diversas funções.
+---
+<div align="center">
 
-### É isso, fé com fé e muito café ☕️
-
-## Me segue ae, vai ! 🥺
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/maxbarboz/maxbarboz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxsuel-barboza-659335189/)](https://www.linkedin.com/in/maxsuel-barboza-659335189/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxsuelstorch@gmail.com)](mailto:maxsuelstorch@gmail.com)
 
-<p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=maxbarboz&show_icons=true&theme=graywhite" /></a>
-</p> 
+</div>
+
+```javascript
+const aboutMe = {
+   Atuo no desenvolvimento e manutenção de aplicações utilizando as seguintes tecnologias: Java com Spring Boot, 
+   AngularJS, Gitlab, ElasticSearch, banco de dados Oracle, Jenkins, Sonar entre outras.    Também atuo na realização de 
+   testes unitários, integração e automazidados entre outras diversas funções.
+};
+
+```
+---
+<div align="center">
+
+
+![diego's status](https://github-readme-stats.vercel.app/api?username=diegobaena89&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobaena89&langs_count=5&hide=html&theme=dark&layout=compact)](https://github.com/diegobaena89/github-readme-stats)
+
+</div>
+
+
+---
+
+<div align="center"> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+ 
+ ---
+
+## <div align="center"> 💻 Meus repositorios ⬇️ </div>
