@@ -1,7 +1,7 @@
 <div align="center">
 
 # Max Barboza 🦅
-Full Stack Developer Jr - Basis Tecnologia da Informação [BR]
+Java Developer - Spassu Tecnologia e Serviços [BR]
 
 </div>
 
