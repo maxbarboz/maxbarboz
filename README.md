@@ -1,7 +1,7 @@
 <div align="center">
 
 # Max Barboza 🦅
-Java Developer - Spassu Tecnologia e Serviços [BR]
+Java Developer Pleno - Spassu Tecnologia e Serviços [BR]
 
 </div>
 
