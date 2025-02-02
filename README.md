@@ -1,7 +1,7 @@
 <div align="center">
 
 # Max Barboza
-Java Developer [BR]
+Java Developer
 
 </div>
 
