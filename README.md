@@ -1,7 +1,9 @@
 
 <div align="center">
 
-![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhqbHk4dm5rM3hmNW5zcTRxaHJ2cTU3ZzN5MzRsMHNrM254bXV6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+   <img height="1012px"
+      ![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhqbHk4dm5rM3hmNW5zcTRxaHJ2cTU3ZzN5MzRsMHNrM254bXV6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+   />
 
 # Max Barboza
 Software Developer from Brazil 🇧🇷
