@@ -1,9 +1,7 @@
 
 <div align="center">
 
-   <img height="1012px"
-      ![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhqbHk4dm5rM3hmNW5zcTRxaHJ2cTU3ZzN5MzRsMHNrM254bXV6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
-   />
+<img height="1012px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhqbHk4dm5rM3hmNW5zcTRxaHJ2cTU3ZzN5MzRsMHNrM254bXV6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
 # Max Barboza
 Software Developer from Brazil 🇧🇷
@@ -20,7 +18,7 @@ const sobreMim = {
 
 ```
 <div align="center">
-  <a href="https://github.com/engenny">
+  <a href="https://github.com/maxbarboz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxbarboz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarboz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
